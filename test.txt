@@ -1,0 +1,15 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 1C93-F06B
+
+ Directory of C:\Users\tom.klemzak\practice_workspace\Java_Practice
+
+10/31/2017  05:16 PM    <DIR>          .
+10/31/2017  05:16 PM    <DIR>          ..
+10/25/2017  01:37 PM               319 .classpath
+10/25/2017  01:35 PM               389 .project
+10/25/2017  01:37 PM    <DIR>          .settings
+10/25/2017  01:38 PM    <DIR>          bin
+10/25/2017  06:50 PM    <DIR>          src
+10/31/2017  05:16 PM                 0 test.txt
+               3 File(s)            708 bytes
+               5 Dir(s)  331,347,595,264 bytes free
